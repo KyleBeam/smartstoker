@@ -1,0 +1,1 @@
+An application that interfaces with the Stoker temperature controller to add features and more fine grained control.
